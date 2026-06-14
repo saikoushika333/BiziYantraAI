@@ -1,0 +1,8 @@
+{
+  "name": "BizYantra - AI",
+  "description": "An advanced AI-powered business feasibility, location intelligence, and risk analysis system designed to help users make data-driven investment decisions.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": []
+}
